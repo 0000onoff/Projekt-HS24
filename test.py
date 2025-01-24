@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dies ist das Hauptfile für den Revit Plugin "LostData". Der Plugin läuft auf Revit 22. 
 # Beim Erstellen eines Projektes in Revit, gehen Daten verloren oder es wurde vergessen einzelne Daten abzufüllen. Mittels LostData werden die bestehenden Daten von den ausgewählten Bauteilen visualisiert, überprüft und angepasst. 
 # 
