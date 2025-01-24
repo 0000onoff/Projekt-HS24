@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        
+        
+
+
+        "C:\\Users\\mario\\Documents\\Projekt HS24 Test\\projektmf\\Lib"
+
+    ],
+    
+    "python.analysis.extraPaths": [
+        "C:\\Users\\mario\\Documents\\Projekt HS24 Test\\projektmf\\Lib\\stubs.min",
+        "./ironpython-stubs-master/release/stubs.min"
+        "C:\\Users\\mario\\AppData\\Roaming\\pyRevit-Master\\pyrevitlib"
+    ]
+}
